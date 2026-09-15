@@ -1,0 +1,26 @@
+{
+  "agentTestCases" : [ ],
+  "bundleVersion" : 1,
+  "chatApplicationModel" : {
+    "Config" : "{\"RecommendedQuestions\":[]}",
+    "DefaultLanguage" : "SQL",
+    "Description" : "test",
+    "Instructions" : "{\"DefaultInstruction\":\"\",\"InsightsGenerationInstruction\":\"\",\"FollowUpGenerationInstruction\":\"\",\"ChartGenerationInstruction\":\"\",\"DoYouMeanSuggestionInstruction\":\"\",\"IntentDetectionInstruction\":\"\"}",
+    "IsDecomposeTrigger" : true,
+    "IsSensitive" : false,
+    "MCPConfigs" : "{}",
+    "Name" : "TestDemo2",
+    "Templates" : "data_analytics"
+  },
+  "chatContexts" : [ ],
+  "mcp" : [ ],
+  "relatedAgents" : [ ],
+  "sharing" : {
+    "editors" : [ ],
+    "viewers" : "everyone"
+  },
+  "systemAgentId" : "c64f74f8-844e-4956-b24f-2bae1ee0d799",
+  "tables" : [ ],
+  "trainingData" : [ ],
+  "userDefinedScripts" : [ ]
+}
