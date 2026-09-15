@@ -1,0 +1,19 @@
+{
+  "agentTestCases" : [ ],
+  "bundleVersion" : 1,
+  "chatApplicationModel" : {
+    "DefaultLanguage" : "SQL",
+    "Name" : "TestDemo"
+  },
+  "chatContexts" : [ ],
+  "mcp" : [ ],
+  "relatedAgents" : [ ],
+  "sharing" : {
+    "editors" : [ ],
+    "viewers" : "everyone"
+  },
+  "systemAgentId" : "75b505ea-0e53-467e-a020-bbb44b8860f1",
+  "tables" : [ ],
+  "trainingData" : [ ],
+  "userDefinedScripts" : [ ]
+}
